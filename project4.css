@@ -1,0 +1,10 @@
+﻿#dvbanner {
+    background: url(https://s3.amazonaws.com/codecademy-content/courses/ltp/img/lodging.png);
+    height: 360px;
+}
+
+#bannertext {
+    padding-top: 120px;
+    padding-left: 50px;
+    color: white;
+}
